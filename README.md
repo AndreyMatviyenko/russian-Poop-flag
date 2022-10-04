@@ -1,14 +1,14 @@
-## Russian-language Ukrainian Keyboard Layout ##
+## russian-language as a Poop (💩) Keyboard Layout. Let's denazification russia together!
 
-### слава Украине! ###
+### Слава Україні!
 
-![Input Sources Menu](http://i.stack.imgur.com/0SLce.png)
+![Mac Input Sources Menu](https://i.imgur.com/QGIrw5p.png)
 
-Tired of staring at a Russian flag while your country is being invaded by the Russian army, but still need to type with different keyboards including the Russian character set? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under System Preferences->Keyboard->Input Sources->Add->Others.
+Tired of staring at a russian flag while your country is being invaded by the russian army, but still need to type with different keyboards including the russian character set? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under System `Preferences->Keyboard->Input Sources->Add->Others`.
 
-    git clone https://github.com/palmerc/Ukrainian-Russian.git
-    cd Ukrainian-Russian/
-    sudo cp Ukrainian\ \(Russian\).* /Library/Keyboard\ Layouts/
+    git clone git@github.com:AndreyMatviyenko/russian-Poop-flag.git
+    cd russian-Poop-flag/
+    sudo cp russian\.* /Library/Keyboard\ Layouts/ && sudo cp russian\ -\ PC\.* /Library/Keyboard\ Layouts/
 
 ### Modify the layout ###
 
